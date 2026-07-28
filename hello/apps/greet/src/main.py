@@ -8,5 +8,5 @@ app = FastAPI()
 def get_fortune():
     return {
         "service": "greet", 
-        "message": "안녕하세요"
+        "message": "안녕하세요2"
     }
