@@ -1,0 +1,6 @@
+# greet/Chart.yaml 파일
+apiVersion: v2
+name: greet
+description: A Helm chart for Fortune FastAPI microservice
+version: 0.1.0
+appVersion: "1.0.0"
