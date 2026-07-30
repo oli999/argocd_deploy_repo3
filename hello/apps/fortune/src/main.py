@@ -8,5 +8,5 @@ app = FastAPI()
 def get_fortune():
     return {
         "service": "fortune", 
-        "message": "오후에 엄청 더워요"
+        "message": "다음주에는 40도가 넘어가요 ㅜㅜ"
     }
